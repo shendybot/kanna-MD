@@ -53,7 +53,7 @@ global.povo = '085828764046'
 global.pgopay = '085828764046'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285787476829'
+global.nomorbot = '62885870966580'
 global.nomorown = '6285828377610'
 global.namebot = '⳹ ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
 global.nameown = 'ᴹᴿ᭄ ZifaOffcོ_1ঔৣ꧂'

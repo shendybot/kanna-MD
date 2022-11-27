@@ -48,7 +48,7 @@ global.sdc = 'https://wa.me/message/LSVGQQPG6FUQF1'
 global.snh = 'https://youtube.com/channel/UCeUvY_fIVSAaQ1n5SAylI-A'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085828764046'
+global.pdana = '083861760785'
 global.povo = '085828764046'
 global.pgopay = '085828764046'
 
